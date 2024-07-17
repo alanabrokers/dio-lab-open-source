@@ -56,6 +56,35 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+ 
+ feat: implementar módulo avançado de CI/CD com GitHub Actions
+
+- Adicionar seção "CI/CD Avançado" ao curso
+- Criar exemplos práticos de pipelines utilizando GitHub Actions
+  - Configurar workflows para build, test e deploy automatizados
+  - Incluir cenários de integração contínua para diferentes linguagens (Node.js, Python, Java)
+  - Demonstrar deploy contínuo para plataformas como AWS e Heroku
+- Atualizar documentação com detalhes sobre a configuração e execução dos pipelines
+- Incluir vídeo tutorial sobre a criação de GitHub Actions personalizadas
+- Adicionar exercícios e quizzes para reforçar o aprendizado
+
+refactor: melhorar estrutura do repositório para suportar novos módulos
+
+- Organizar pastas e arquivos por módulo e nível de dificuldade
+- Atualizar scripts de build para acomodar novos exemplos
+- Revisar e otimizar código existente para melhor performance e legibilidade
+
+fix: corrigir bug na integração do módulo de testes automatizados
+
+- Ajustar configuração de testes para garantir compatibilidade com novas versões de dependências
+- Corrigir erros de sintaxe e lógica em scripts de teste
+
+docs: atualizar README com novas instruções de uso
+
+- Incluir seção sobre o novo módulo de CI/CD
+- Atualizar links e referências para documentação interna
+- Adicionar instruções detalhadas para contribuição ao projeto
+
 
 #### Utilitários
 
